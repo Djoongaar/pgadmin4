@@ -57,7 +57,7 @@
     "process": "^0.11.10",
     "prop-types": "^15.7.2",
     "resize-observer-polyfill": "^1.5.1",
-    "sass": "^1.24.4",
+    "sass": "~1.24.4",
     "sass-loader": "^11.0.0",
     "sass-resources-loader": "^2.2.1",
     "style-loader": "^2.0.0",

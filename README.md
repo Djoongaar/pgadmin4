@@ -277,3 +277,9 @@ If you wish to discuss pgAdmin 4, or contribute to the project, please use the
 pgAdmin Hackers mailing list:
 
 pgadmin-hackers@postgresql.org
+
+
+# For local build on Ubuntu 20.04 might need
+```bash
+(venv) $ sudo apt-get install python3-distutils heimdal-dev python3-dev
+```
